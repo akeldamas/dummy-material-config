@@ -1,0 +1,87 @@
+[
+  {
+    "group": "Guidance and Support",
+    "materials": [
+      {
+        "topic": "Workgroup Establishment",
+        "type": "PDF",
+        "url": "https://example.com"
+      },
+      {
+        "topic": "Maximising Workgroup Effort",
+        "type": "FAQ",
+        "url": "https://example.com"
+      },
+      {
+        "topic": "Publication of Outputs",
+        "type": "FAQ",
+        "url": "https://example.com"
+      },
+      {
+        "topic": "Minimum Metadata Schema",
+        "type": "FAQ",
+        "url": "https://example.com"
+      },
+      {
+        "topic": "Organising your work",
+        "type": "FAQ",
+        "url": "https://example.com"
+      },
+      {
+        "topic": "RDA Website Integration",
+        "type": "FAQ",
+        "url": "https://example.com"
+      },
+      {
+        "topic": "The Role of Zenodo",
+        "type": "FAQ",
+        "url": "https://example.com"
+      },
+      {
+        "topic": "Credentials and Authentication",
+        "type": "FAQ",
+        "url": "https://example.com"
+      }
+    ]
+  },
+  {
+    "group": "Policy and Procedures",
+    "materials": [
+      {
+        "topic": "Privacy policy",
+        "type": "FAQ",
+        "url": "https://example.com"
+      },
+      {
+        "topic": "Disclaimer",
+        "type": "FAQ",
+        "url": "https://example.com"
+      },
+      {
+        "topic": "Research Processes",
+        "type": "FAQ",
+        "url": "https://example.com"
+      }
+    ]
+  },
+  {
+    "group": "Standards and Benchmarks",
+    "materials": [
+      {
+        "topic": "Tag Lists, Registries, and Vocabularies",
+        "type": "FAQ",
+        "url": "https://example.com"
+      },
+      {
+        "topic": "Preferred Formats for Dissemination and Preservation",
+        "type": "FAQ",
+        "url": "https://example.com"
+      },
+      {
+        "topic": "Annotation Standards and Schema",
+        "type": "FAQ",
+        "url": "https://example.com"
+      }
+    ]
+  }
+]
