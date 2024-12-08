@@ -5,42 +5,42 @@
       {
         "topic": "Workgroup Establishment",
         "type": "PDF",
-        "url": "https://example.com"
+        "url": "https://akeldamas.github.io/dummy-material-config/dummy.pdf"
       },
       {
         "topic": "Maximising Workgroup Effort",
-        "type": "FAQ",
-        "url": "https://example.com"
+        "type": "PDF",
+        "url": "https://akeldamas.github.io/dummy-material-config/dummy.pdf"
       },
       {
         "topic": "Publication of Outputs",
-        "type": "FAQ",
-        "url": "https://example.com"
+        "type": "PDF",
+        "url": "https://akeldamas.github.io/dummy-material-config/dummy.pdf"
       },
       {
         "topic": "Minimum Metadata Schema",
-        "type": "FAQ",
-        "url": "https://example.com"
+        "type": "PDF",
+        "url": "https://akeldamas.github.io/dummy-material-config/dummy.pdf"
       },
       {
         "topic": "Organising your work",
-        "type": "FAQ",
-        "url": "https://example.com"
+        "type": "PDF",
+        "url": "https://akeldamas.github.io/dummy-material-config/dummy.pdf"
       },
       {
         "topic": "RDA Website Integration",
-        "type": "FAQ",
-        "url": "https://example.com"
+        "type": "PDF",
+        "url": "https://akeldamas.github.io/dummy-material-config/dummy.pdf"
       },
       {
         "topic": "The Role of Zenodo",
-        "type": "FAQ",
-        "url": "https://example.com"
+        "type": "PDF",
+        "url": "https://akeldamas.github.io/dummy-material-config/dummy.pdf"
       },
       {
         "topic": "Credentials and Authentication",
-        "type": "FAQ",
-        "url": "https://example.com"
+        "type": "PDF",
+        "url": "https://akeldamas.github.io/dummy-material-config/dummy.pdf"
       }
     ]
   },
@@ -49,18 +49,18 @@
     "materials": [
       {
         "topic": "Privacy policy",
-        "type": "FAQ",
-        "url": "https://example.com"
+        "type": "PDF",
+        "url": "https://akeldamas.github.io/dummy-material-config/dummy.pdf"
       },
       {
         "topic": "Disclaimer",
-        "type": "FAQ",
-        "url": "https://example.com"
+        "type": "PDF",
+        "url": "https://akeldamas.github.io/dummy-material-config/dummy.pdf"
       },
       {
         "topic": "Research Processes",
-        "type": "FAQ",
-        "url": "https://example.com"
+        "type": "PDF",
+        "url": "https://akeldamas.github.io/dummy-material-config/dummy.pdf"
       }
     ]
   },
@@ -69,18 +69,18 @@
     "materials": [
       {
         "topic": "Tag Lists, Registries, and Vocabularies",
-        "type": "FAQ",
-        "url": "https://example.com"
+        "type": "PDF",
+        "url": "https://akeldamas.github.io/dummy-material-config/dummy.pdf"
       },
       {
         "topic": "Preferred Formats for Dissemination and Preservation",
-        "type": "FAQ",
-        "url": "https://example.com"
+        "type": "PDF",
+        "url": "https://akeldamas.github.io/dummy-material-config/dummy.pdf"
       },
       {
         "topic": "Annotation Standards and Schema",
-        "type": "FAQ",
-        "url": "https://example.com"
+        "type": "PDF",
+        "url": "https://akeldamas.github.io/dummy-material-config/dummy.pdf"
       }
     ]
   }
